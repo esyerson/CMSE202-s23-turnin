@@ -12,3 +12,10 @@ if spartan == True:
     print('Hello Spartan! Go Green!')
 else:
     print('Oh, hey')
+
+wolverine = True
+
+if wolverine == True:
+    print('EW!!! Get away demon!!')
+else:
+    print('Hello fine fellow')
