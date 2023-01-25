@@ -1,0 +1,14 @@
+"""
+HW 1 run-through of workflow:
+
+Erin Syerson
+role: section 1 of project
+manages meeting schedule
+"""
+
+spartan = True
+
+if spartan == True:
+    print('Hello Spartan! Go Green!')
+else:
+    print('Oh, hey')
